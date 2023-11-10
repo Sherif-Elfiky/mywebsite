@@ -1,0 +1,32 @@
+.my_button{
+    padding: 15px 15px;
+    border-radius: 12px;
+    border: 2px solid white;
+    background-color: white;
+    font-size: large;
+    font-weight: 1000;
+    font-family: sans-serif;
+    color: #F7CAC9;
+    
+
+}
+
+.this_div{
+    font-family:sans-serif;
+    color: white;
+
+}
+
+html{
+    background-color: #F7CAC9;
+
+}
+
+.my_button:hover {
+   
+    color: white;
+    background-color: #F7CAC9;
+    border-color: white;
+   
+}
+
