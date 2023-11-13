@@ -6,7 +6,7 @@
     font-size: large;
     font-weight: 1000;
     font-family: Geneva;
-    color: #F7CAC9;
+    color: #E7717D;
     
 
 }
@@ -18,14 +18,14 @@
 }
 
 html{
-    background-color: #F7CAC9;
+    background-color:  #E7717D;
 
 }
 
 .my_button:hover {
    
     color: white;
-    background-color: #F7CAC9;
+    background-color: #E7717D;
     border-color: white;
    
 }
